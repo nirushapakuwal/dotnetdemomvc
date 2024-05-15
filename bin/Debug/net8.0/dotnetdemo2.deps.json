@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dotnetdemo2/1.0.0": {
+        "runtime": {
+          "dotnetdemo2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnetdemo2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
